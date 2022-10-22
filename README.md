@@ -9,3 +9,4 @@ this library as created as an example of how to publish my own python package.
 
 ##updating this package from github
 'pip install --upgrade git + https://github.com/bokeimei/gitproject.git'
+"# gitproject" 
